@@ -1,7 +1,8 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
-// Crea una variable "string", puede contener lo que quieras:
-const nuevaString = null;
+// Crea una variable "str.ing", puede contener lo que quieras:
+const nuevaString = 'hola';
+
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = null;
@@ -11,8 +12,8 @@ const nuevoBool = null;
 
 // Resuelve el siguiente problema matemático:
 const nuevaResta = 10 - null === 5;
-
-// Resuelve el siguiente problema matemático:
+"
+// Resuelve el siguiente problema matemático:"
 const nuevaMultiplicacion = 10 * null === 40 ;
 
 // Resuelve el siguiente problema matemático:
@@ -24,7 +25,6 @@ const nuevoModulo = 21 % 5 === null;
 // Asegúrate que usas "return" cuando la consola te lo pida.
 // Pista: "console.log()" NO fucionará.
 // No cambies los nombres de las funciones.
-
 function devolverString(str) {
   // "Return" la string provista: str
   // Tu código:
@@ -164,7 +164,7 @@ function combinarNombres(nombre, apellido) {
 
 function obtenerSaludo(nombre) {
   // Toma la string "nombre" y concatena otras string en la cadena para que tome la siguiente forma:
-  // "Martin" -> "Hola Martin!"
+  // "Martin" -> " Martin!"
   // Tu código:
   
 }
